@@ -1,3 +1,5 @@
+require "language/node"
+
 class Scaffold < Formula
   desc "AI-powered software project scaffolding pipeline"
   homepage "https://github.com/zigrivers/scaffold"
