@@ -4,7 +4,7 @@ class Scaffold < Formula
   desc "AI-powered software project scaffolding pipeline"
   homepage "https://github.com/zigrivers/scaffold"
   url "https://github.com/zigrivers/scaffold/archive/refs/tags/v3.10.0.tar.gz"
-  sha256 "35790764209974588a7543fc313ed2edd50ab882d9865e0e87ac11e8f8b7e434"
+  sha256 "b6e5c2b2d3c66342f9b022fd92f127d3c8376ec7283207c9dcba35d6f329e6f0"
   license "MIT"
 
   depends_on "node"
