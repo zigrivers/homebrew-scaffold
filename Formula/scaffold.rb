@@ -3,8 +3,8 @@ require "language/node"
 class Scaffold < Formula
   desc "AI-powered software project scaffolding pipeline"
   homepage "https://github.com/zigrivers/scaffold"
-  url "https://github.com/zigrivers/scaffold/archive/refs/tags/v3.10.1.tar.gz"
-  sha256 "34c3c5bb87967e2d8f595b7f3f9f0c6a845529b371b0da5c0e4501313b422fad"
+  url "https://github.com/zigrivers/scaffold/archive/refs/tags/v3.11.0.tar.gz"
+  sha256 "9dfdce2dc7df105a387e6c065690406c022dcfaa434f08075eaea7386b6f722f"
   license "MIT"
 
   depends_on "node"
