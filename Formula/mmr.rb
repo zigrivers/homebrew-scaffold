@@ -3,10 +3,10 @@ require "language/node"
 class Mmr < Formula
   desc "Multi-model code review CLI — async dispatch, reconciliation, and severity gating"
   homepage "https://github.com/zigrivers/scaffold/tree/main/packages/mmr"
-  url "https://github.com/zigrivers/scaffold/archive/refs/tags/mmr-v1.4.1.tar.gz"
-  sha256 "8920e22c5f661966bffae7ede15bd618d9f0efd6def1f1509f7a7045e648d470"
+  url "https://github.com/zigrivers/scaffold/archive/refs/tags/mmr-v1.5.0.tar.gz"
+  sha256 "0e87ef8fbb5f8797c95b8bde551e281c89b0df9263961f2d616cbe76624c8938"
   license "MIT"
-  version "1.4.1"
+  version "1.5.0"
 
   depends_on "node"
 
